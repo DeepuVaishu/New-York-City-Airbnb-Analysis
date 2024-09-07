@@ -12,6 +12,7 @@ This Power BI project offers a comprehensive analysis of Airbnb listings in New 
 6. How to Use the Report
 7. Conclusion
 8. Key Files in the Repository
+9. Contact Information
 
 ## Dataset Overview
 The dataset used for this analysis is the New York City Airbnb Open Data obtained from Kaggle. It includes detailed information on:
@@ -114,3 +115,6 @@ The New York City Airbnb market presents significant growth potential. By strate
 - NYC Airbnb Listings Project.pdf: PDF report summarizing the project.
 - Images: A collection of screenshots of the dashboard and key visuals to provide a quick overview to viewers.
 - NYC Airbnb Listings Project.mp4: Video file explaining the key visualizations, insights, and interactivity in the Power BI report. 
+
+## Contact Information
+For further information or questions, please contact: Email: deepthydevadasan@gmail.com
