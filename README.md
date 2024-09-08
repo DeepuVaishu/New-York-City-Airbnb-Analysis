@@ -61,7 +61,7 @@ The report is structured into multiple pages, each focusing on specific areas of
 - Displays key metrics like total revenue, occupancy rate, total listings, and average price per neighborhood.
 
 
-![Key metrics](https://github.com/user-attachments/assets/19c6976e-d7b3-4d32-89d7-f88d01e73fc6)
+![Key metrics](https://github.com/user-attachments/assets/a266d1c3-497a-44c8-912e-1ad04a61051d)
 
 
 ### 3. **Detailed Analysis**
