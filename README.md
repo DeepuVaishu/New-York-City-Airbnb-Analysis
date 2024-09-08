@@ -41,7 +41,7 @@ The report is structured into multiple pages, each focusing on specific areas of
 - Includes a clickable button for navigating to the "Key Metrics" page.
 
   
-![Cover page](https://github.com/user-attachments/assets/308c4492-d3c9-4596-b4ee-a2cc7cbab50e)
+![Cover page](https://github.com/user-attachments/assets/7b7c9a8c-8a86-4f8c-bc54-74fe3b519159)
 
   
 ### 2. **Key Metrics Page**
